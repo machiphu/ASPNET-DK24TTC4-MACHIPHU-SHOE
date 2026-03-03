@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MaChiPhuShoe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5bd8370197d45866862d69eade2181dc812279d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+376bfca52ab0713e87386d7b1985f8a7912bb6a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("MaChiPhuShoe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MaChiPhuShoe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
